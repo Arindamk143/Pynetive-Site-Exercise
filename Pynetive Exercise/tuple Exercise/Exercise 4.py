@@ -1,0 +1,5 @@
+tuple1 = (10, 20, 30, 40)
+print("The first value is: ",tuple1[0])
+print("The Second value is: ", tuple1[1])
+print("The Third value is: ", tuple1[2])
+print("The Fourth value is: ", tuple1[3])
